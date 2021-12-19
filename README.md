@@ -1,2 +1,2 @@
-# MyCloud
+
 # Hadoop
