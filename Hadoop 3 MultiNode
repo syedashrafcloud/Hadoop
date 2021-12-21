@@ -1,4 +1,4 @@
-# Connect To the DataCenter with Public Key or Private in case of windows through Putty. Ubuntu16.04
+# Connect To the DataCenter with Public Key or Private in case of windows through Putty. Ubuntu16.04 for all nodes t2.micro free
 
 ssh -i Downloads/file.pem ubuntu@public_dns_address
 
