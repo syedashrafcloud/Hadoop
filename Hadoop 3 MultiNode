@@ -1,4 +1,4 @@
-# Connect To the DataCenter with Public Key or Private in case of windows through Putty.
+# Connect To the DataCenter with Public Key or Private in case of windows through Putty. Ubuntu16.04
 
 ssh -i Downloads/file.pem ubuntu@public_dns_address
 
